@@ -1,0 +1,1 @@
+const weather = fetch("https://api.openweathermap.org/data/2.5/weather?q=guwahati&appid=f54cb286e306b976ed54408ea6828357&units=metric")
