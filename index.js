@@ -1,1 +1,12 @@
-const weather = fetch("https://api.openweathermap.org/data/2.5/weather?q=guwahati&appid=f54cb286e306b976ed54408ea6828357&units=metric")
+import { API_KEY } from './config.js';
+
+
+
+async function checkWeather() {
+    const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=guwahati&appid=${API_KEY}&units=metric`)
+    var data = await response.json();
+
+    console.log(data);
+}
+
+checkWeather()
