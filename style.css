@@ -93,3 +93,12 @@ body {
 .wind {
   font-size: 28px;
 }
+
+.error {
+  color: yellow;
+  margin-top: 7px;
+  text-align: center;
+  display: none;
+  font-weight: bold;
+  font-size: larger;
+}
