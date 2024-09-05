@@ -1,10 +1,27 @@
-# It ia Weather App
+# A Weather App using JavaScript
 
 ---
 
-## It is made using HTML, CSS and JavaScript
+## Technologies Used
+
+- **HTML**: It is used to structure the site.
+- **CSS**: It is used to style and color the site.
+- **JavaScript**: It adds functionality to the site.
 
 ---
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Ajoy-paul11/PRODIGY_WD_05.git
+   ```
+2. Navigate to the project
+    ```sh
+    cd PRODIGY_WD_05
+    ```
+3. Run the development site in the browser
+    
 
 ### Project Description:
 
